@@ -1,0 +1,20 @@
+{
+  "name": "javascript-dislcaimer",
+  "version": "1.0.0",
+  "description": "disclaimer",
+  "main": "index.html",
+  "scripts": {},
+  "keywords": [
+    "disclaimer",
+    "cookies"
+  ],
+  "author": "Jason Vanstone",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-sass": "^4.1.0"
+  }
+}
